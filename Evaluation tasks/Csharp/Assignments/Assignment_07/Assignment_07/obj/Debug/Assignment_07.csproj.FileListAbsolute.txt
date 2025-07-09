@@ -1,0 +1,8 @@
+C:\Users\vidushij\source\repos\Assignment_07\Assignment_07\obj\Debug\Assignment_07.csproj.AssemblyReference.cache
+C:\Users\vidushij\source\repos\Assignment_07\Assignment_07\obj\Debug\Assignment_07.csproj.CoreCompileInputs.cache
+C:\Users\vidushij\source\repos\Assignment_07\Assignment_07\bin\Debug\Assignment_07.exe.config
+C:\Users\vidushij\source\repos\Assignment_07\Assignment_07\bin\Debug\Assignment_07.exe
+C:\Users\vidushij\source\repos\Assignment_07\Assignment_07\bin\Debug\Assignment_07.pdb
+C:\Users\vidushij\source\repos\Assignment_07\Assignment_07\obj\Debug\Assignment_07.exe
+C:\Users\vidushij\source\repos\Assignment_07\Assignment_07\obj\Debug\Assignment_07.pdb
+C:\Users\vidushij\source\repos\Assignment_07\Assignment_07\obj\Debug\Assignment_07.exe.config
