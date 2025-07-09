@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vidushij\\source\\repos\\CodingChallenge_03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DE0639-B657-40D5-A8DB-12C5D381B3AA}|CodingChallenge_03\\CodingChallenge_03.csproj|c:\\users\\vidushij\\source\\repos\\codingchallenge_03\\codingchallenge_03\\program4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4DE0639-B657-40D5-A8DB-12C5D381B3AA}|CodingChallenge_03\\CodingChallenge_03.csproj|solutionrelative:codingchallenge_03\\program4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DE0639-B657-40D5-A8DB-12C5D381B3AA}|CodingChallenge_03\\CodingChallenge_03.csproj|c:\\users\\vidushij\\source\\repos\\codingchallenge_03\\codingchallenge_03\\program3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4DE0639-B657-40D5-A8DB-12C5D381B3AA}|CodingChallenge_03\\CodingChallenge_03.csproj|solutionrelative:codingchallenge_03\\program3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DE0639-B657-40D5-A8DB-12C5D381B3AA}|CodingChallenge_03\\CodingChallenge_03.csproj|c:\\users\\vidushij\\source\\repos\\codingchallenge_03\\codingchallenge_03\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4DE0639-B657-40D5-A8DB-12C5D381B3AA}|CodingChallenge_03\\CodingChallenge_03.csproj|solutionrelative:codingchallenge_03\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DE0639-B657-40D5-A8DB-12C5D381B3AA}|CodingChallenge_03\\CodingChallenge_03.csproj|c:\\users\\vidushij\\source\\repos\\codingchallenge_03\\codingchallenge_03\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4DE0639-B657-40D5-A8DB-12C5D381B3AA}|CodingChallenge_03\\CodingChallenge_03.csproj|solutionrelative:codingchallenge_03\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CodingChallenge_03||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DE0639-B657-40D5-A8DB-12C5D381B3AA}|CodingChallenge_03\\CodingChallenge_03.csproj|c:\\users\\vidushij\\source\\repos\\codingchallenge_03\\codingchallenge_03\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CodingChallenge_03",
+              "DocumentMoniker": "C:\\Users\\vidushij\\source\\repos\\CodingChallenge_03\\CodingChallenge_03\\CodingChallenge_03.csproj",
+              "RelativeDocumentMoniker": "CodingChallenge_03\\CodingChallenge_03.csproj",
+              "ToolTip": "C:\\Users\\vidushij\\source\\repos\\CodingChallenge_03\\CodingChallenge_03\\CodingChallenge_03.csproj",
+              "RelativeToolTip": "CodingChallenge_03\\CodingChallenge_03.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-09T05:21:02.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program4.cs",
+              "DocumentMoniker": "C:\\Users\\vidushij\\source\\repos\\CodingChallenge_03\\CodingChallenge_03\\Program4.cs",
+              "RelativeDocumentMoniker": "CodingChallenge_03\\Program4.cs",
+              "ToolTip": "C:\\Users\\vidushij\\source\\repos\\CodingChallenge_03\\CodingChallenge_03\\Program4.cs",
+              "RelativeToolTip": "CodingChallenge_03\\Program4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T05:05:07.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program3.cs",
+              "DocumentMoniker": "C:\\Users\\vidushij\\source\\repos\\CodingChallenge_03\\CodingChallenge_03\\Program3.cs",
+              "RelativeDocumentMoniker": "CodingChallenge_03\\Program3.cs",
+              "ToolTip": "C:\\Users\\vidushij\\source\\repos\\CodingChallenge_03\\CodingChallenge_03\\Program3.cs",
+              "RelativeToolTip": "CodingChallenge_03\\Program3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T04:59:56.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program1.cs",
+              "DocumentMoniker": "C:\\Users\\vidushij\\source\\repos\\CodingChallenge_03\\CodingChallenge_03\\Program1.cs",
+              "RelativeDocumentMoniker": "CodingChallenge_03\\Program1.cs",
+              "ToolTip": "C:\\Users\\vidushij\\source\\repos\\CodingChallenge_03\\CodingChallenge_03\\Program1.cs",
+              "RelativeToolTip": "CodingChallenge_03\\Program1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T04:46:10.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program2.cs",
+              "DocumentMoniker": "C:\\Users\\vidushij\\source\\repos\\CodingChallenge_03\\CodingChallenge_03\\Program2.cs",
+              "RelativeDocumentMoniker": "CodingChallenge_03\\Program2.cs",
+              "ToolTip": "C:\\Users\\vidushij\\source\\repos\\CodingChallenge_03\\CodingChallenge_03\\Program2.cs",
+              "RelativeToolTip": "CodingChallenge_03\\Program2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T04:42:50.774Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
