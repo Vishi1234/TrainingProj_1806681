@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vidushij\\source\\repos\\SingletonPatterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C48486CD-CF1A-4F51-8773-49406670ED39}|SingletonPatterns\\SingletonPatterns.csproj|c:\\users\\vidushij\\source\\repos\\singletonpatterns\\singletonpatterns\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C48486CD-CF1A-4F51-8773-49406670ED39}|SingletonPatterns\\SingletonPatterns.csproj|solutionrelative:singletonpatterns\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C48486CD-CF1A-4F51-8773-49406670ED39}|SingletonPatterns\\SingletonPatterns.csproj|c:\\users\\vidushij\\source\\repos\\singletonpatterns\\singletonpatterns\\imycache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C48486CD-CF1A-4F51-8773-49406670ED39}|SingletonPatterns\\SingletonPatterns.csproj|solutionrelative:singletonpatterns\\imycache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C48486CD-CF1A-4F51-8773-49406670ED39}|SingletonPatterns\\SingletonPatterns.csproj|c:\\users\\vidushij\\source\\repos\\singletonpatterns\\singletonpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C48486CD-CF1A-4F51-8773-49406670ED39}|SingletonPatterns\\SingletonPatterns.csproj|solutionrelative:singletonpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMyCache.cs",
+              "DocumentMoniker": "C:\\Users\\vidushij\\source\\repos\\SingletonPatterns\\SingletonPatterns\\IMyCache.cs",
+              "RelativeDocumentMoniker": "SingletonPatterns\\IMyCache.cs",
+              "ToolTip": "C:\\Users\\vidushij\\source\\repos\\SingletonPatterns\\SingletonPatterns\\IMyCache.cs",
+              "RelativeToolTip": "SingletonPatterns\\IMyCache.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T09:40:05.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program1.cs",
+              "DocumentMoniker": "C:\\Users\\vidushij\\source\\repos\\SingletonPatterns\\SingletonPatterns\\Program1.cs",
+              "RelativeDocumentMoniker": "SingletonPatterns\\Program1.cs",
+              "ToolTip": "C:\\Users\\vidushij\\source\\repos\\SingletonPatterns\\SingletonPatterns\\Program1.cs",
+              "RelativeToolTip": "SingletonPatterns\\Program1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T09:38:18.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vidushij\\source\\repos\\SingletonPatterns\\SingletonPatterns\\Program.cs",
+              "RelativeDocumentMoniker": "SingletonPatterns\\Program.cs",
+              "ToolTip": "C:\\Users\\vidushij\\source\\repos\\SingletonPatterns\\SingletonPatterns\\Program.cs",
+              "RelativeToolTip": "SingletonPatterns\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAiwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T09:29:31.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
