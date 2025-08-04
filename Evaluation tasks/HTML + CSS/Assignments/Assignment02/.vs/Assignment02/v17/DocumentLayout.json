@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vidushij\\source\\repos\\Assignment02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\vidushij\\source\\repos\\Assignment02\\HTMLPage1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:HTMLPage1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6A008E-9F89-4F31-826F-F575F02CD6D0}|Assignment02\\Assignment02.csproj|C:\\Users\\vidushij\\source\\repos\\Assignment02\\assignment02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB6A008E-9F89-4F31-826F-F575F02CD6D0}|Assignment02\\Assignment02.csproj|solutionrelative:assignment02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 289,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HTMLPage1.html",
+              "DocumentMoniker": "C:\\Users\\vidushij\\source\\repos\\Assignment02\\HTMLPage1.html",
+              "RelativeDocumentMoniker": "HTMLPage1.html",
+              "ToolTip": "C:\\Users\\vidushij\\source\\repos\\Assignment02\\HTMLPage1.html",
+              "RelativeToolTip": "HTMLPage1.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-08-03T08:54:29.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vidushij\\source\\repos\\Assignment02\\Assignment02\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment02\\Program.cs",
+              "ToolTip": "C:\\Users\\vidushij\\source\\repos\\Assignment02\\Assignment02\\Program.cs",
+              "RelativeToolTip": "Assignment02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T08:54:07.826Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

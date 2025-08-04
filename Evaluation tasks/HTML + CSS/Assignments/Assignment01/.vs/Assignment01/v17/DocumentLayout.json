@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vidushij\\source\\repos\\Assignment01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68496313-788D-484D-A660-92A444B87F64}|Assignment01\\Assignment01.csproj|c:\\users\\vidushij\\source\\repos\\assignment01\\assignment01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68496313-788D-484D-A660-92A444B87F64}|Assignment01\\Assignment01.csproj|solutionrelative:assignment01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\vidushij\\source\\repos\\Assignment01\\HTMLPage1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:HTMLPage1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68496313-788D-484D-A660-92A444B87F64}|Assignment01\\Assignment01.csproj|c:\\users\\vidushij\\source\\repos\\assignment01\\assignment01\\assignment1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68496313-788D-484D-A660-92A444B87F64}|Assignment01\\Assignment01.csproj|solutionrelative:assignment01\\assignment1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HTMLPage1.html",
+              "DocumentMoniker": "C:\\Users\\vidushij\\source\\repos\\Assignment01\\HTMLPage1.html",
+              "RelativeDocumentMoniker": "HTMLPage1.html",
+              "ToolTip": "C:\\Users\\vidushij\\source\\repos\\Assignment01\\HTMLPage1.html",
+              "RelativeToolTip": "HTMLPage1.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-08-03T08:44:46.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Assignment1.html",
+              "DocumentMoniker": "C:\\Users\\vidushij\\source\\repos\\Assignment01\\Assignment01\\Assignment1.html",
+              "RelativeDocumentMoniker": "Assignment01\\Assignment1.html",
+              "ToolTip": "C:\\Users\\vidushij\\source\\repos\\Assignment01\\Assignment01\\Assignment1.html",
+              "RelativeToolTip": "Assignment01\\Assignment1.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-08-03T08:44:04.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vidushij\\source\\repos\\Assignment01\\Assignment01\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment01\\Program.cs",
+              "ToolTip": "C:\\Users\\vidushij\\source\\repos\\Assignment01\\Assignment01\\Program.cs",
+              "RelativeToolTip": "Assignment01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T08:43:01.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
