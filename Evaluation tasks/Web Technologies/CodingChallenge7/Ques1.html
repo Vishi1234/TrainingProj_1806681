@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    
+</head>
+<body>
+    <h3>Multiplication and division of two numbers</h3>
+    <label for="1number">1st number:</label>
+    <input type="number" id="fnum" name="fnum">
+    <br /><br />
+    <label for="2number">2nd number:</label>
+    <input type="number" id="lnum" name="flnum">
+    <br /><br />
+    <button onclick="multiplication()">Multiply</button>
+    <button onclick="division()">Divide</button>
+    
+    <h4 id="answer"></h4>
+
+    <script>
+        function multiplication() {
+            var a = document.getElementById("fnum").value;
+            var b = document.getElementById("lnum").value;
+            var result = a * b;
+            document.getElementById("answer").innerText = "Answer is: " + result;
+        }
+        function division() {
+            var a = document.getElementById("fnum").value;
+            var b = document.getElementById("lnum").value;
+            if (b == 0) {
+                document.getElementById("answer").innerText = "Cannot divide by 0";
+            }
+            var result = a / b;
+            document.getElementById("answer").innerText = "Answer is: " + result;
+        }
+    </script>
+</body>
+</html>
