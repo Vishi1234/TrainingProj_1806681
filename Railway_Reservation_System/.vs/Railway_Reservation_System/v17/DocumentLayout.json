@@ -1,0 +1,416 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6F20B6-6AD4-4910-A71A-864B0C56213A}|Railway_Reservation_System\\Railway_Reservation_System.csproj|C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\railway_reservation_system\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6F20B6-6AD4-4910-A71A-864B0C56213A}|Railway_Reservation_System\\Railway_Reservation_System.csproj|solutionrelative:railway_reservation_system\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6F20B6-6AD4-4910-A71A-864B0C56213A}|Railway_Reservation_System\\Railway_Reservation_System.csproj|C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\railway_reservation_system\\trainoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6F20B6-6AD4-4910-A71A-864B0C56213A}|Railway_Reservation_System\\Railway_Reservation_System.csproj|solutionrelative:railway_reservation_system\\trainoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6F20B6-6AD4-4910-A71A-864B0C56213A}|Railway_Reservation_System\\Railway_Reservation_System.csproj|C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\railway_reservation_system\\trainbynum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6F20B6-6AD4-4910-A71A-864B0C56213A}|Railway_Reservation_System\\Railway_Reservation_System.csproj|solutionrelative:railway_reservation_system\\trainbynum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6F20B6-6AD4-4910-A71A-864B0C56213A}|Railway_Reservation_System\\Railway_Reservation_System.csproj|C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\railway_reservation_system\\trainbyname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6F20B6-6AD4-4910-A71A-864B0C56213A}|Railway_Reservation_System\\Railway_Reservation_System.csproj|solutionrelative:railway_reservation_system\\trainbyname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6F20B6-6AD4-4910-A71A-864B0C56213A}|Railway_Reservation_System\\Railway_Reservation_System.csproj|C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\railway_reservation_system\\registrationoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6F20B6-6AD4-4910-A71A-864B0C56213A}|Railway_Reservation_System\\Railway_Reservation_System.csproj|solutionrelative:railway_reservation_system\\registrationoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6F20B6-6AD4-4910-A71A-864B0C56213A}|Railway_Reservation_System\\Railway_Reservation_System.csproj|C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\railway_reservation_system\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6F20B6-6AD4-4910-A71A-864B0C56213A}|Railway_Reservation_System\\Railway_Reservation_System.csproj|solutionrelative:railway_reservation_system\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6F20B6-6AD4-4910-A71A-864B0C56213A}|Railway_Reservation_System\\Railway_Reservation_System.csproj|C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\railway_reservation_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6F20B6-6AD4-4910-A71A-864B0C56213A}|Railway_Reservation_System\\Railway_Reservation_System.csproj|solutionrelative:railway_reservation_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6F20B6-6AD4-4910-A71A-864B0C56213A}|Railway_Reservation_System\\Railway_Reservation_System.csproj|C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\railway_reservation_system\\mybookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6F20B6-6AD4-4910-A71A-864B0C56213A}|Railway_Reservation_System\\Railway_Reservation_System.csproj|solutionrelative:railway_reservation_system\\mybookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6F20B6-6AD4-4910-A71A-864B0C56213A}|Railway_Reservation_System\\Railway_Reservation_System.csproj|C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\railway_reservation_system\\cancelticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6F20B6-6AD4-4910-A71A-864B0C56213A}|Railway_Reservation_System\\Railway_Reservation_System.csproj|solutionrelative:railway_reservation_system\\cancelticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6F20B6-6AD4-4910-A71A-864B0C56213A}|Railway_Reservation_System\\Railway_Reservation_System.csproj|C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\railway_reservation_system\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6F20B6-6AD4-4910-A71A-864B0C56213A}|Railway_Reservation_System\\Railway_Reservation_System.csproj|solutionrelative:railway_reservation_system\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6F20B6-6AD4-4910-A71A-864B0C56213A}|Railway_Reservation_System\\Railway_Reservation_System.csproj|c:\\users\\vidushij\\trainingproj_1806681\\railway_reservation_system\\railway_reservation_system\\bookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6F20B6-6AD4-4910-A71A-864B0C56213A}|Railway_Reservation_System\\Railway_Reservation_System.csproj|solutionrelative:railway_reservation_system\\bookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1519651D-F6DF-452D-ADA9-DC88CC158567}|Railway_Reservation_System.Tests\\Railway_Reservation_System.Tests.csproj|C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\railway_reservation_system.tests\\cancellationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1519651D-F6DF-452D-ADA9-DC88CC158567}|Railway_Reservation_System.Tests\\Railway_Reservation_System.Tests.csproj|solutionrelative:railway_reservation_system.tests\\cancellationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1519651D-F6DF-452D-ADA9-DC88CC158567}|Railway_Reservation_System.Tests\\Railway_Reservation_System.Tests.csproj|C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\railway_reservation_system.tests\\mybookingservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1519651D-F6DF-452D-ADA9-DC88CC158567}|Railway_Reservation_System.Tests\\Railway_Reservation_System.Tests.csproj|solutionrelative:railway_reservation_system.tests\\mybookingservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6F20B6-6AD4-4910-A71A-864B0C56213A}|Railway_Reservation_System\\Railway_Reservation_System.csproj|C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\railway_reservation_system\\services\\mybookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6F20B6-6AD4-4910-A71A-864B0C56213A}|Railway_Reservation_System\\Railway_Reservation_System.csproj|solutionrelative:railway_reservation_system\\services\\mybookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1519651D-F6DF-452D-ADA9-DC88CC158567}|Railway_Reservation_System.Tests\\Railway_Reservation_System.Tests.csproj|C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\railway_reservation_system.tests\\registrationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1519651D-F6DF-452D-ADA9-DC88CC158567}|Railway_Reservation_System.Tests\\Railway_Reservation_System.Tests.csproj|solutionrelative:railway_reservation_system.tests\\registrationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6F20B6-6AD4-4910-A71A-864B0C56213A}|Railway_Reservation_System\\Railway_Reservation_System.csproj|C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\railway_reservation_system\\services\\registrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6F20B6-6AD4-4910-A71A-864B0C56213A}|Railway_Reservation_System\\Railway_Reservation_System.csproj|solutionrelative:railway_reservation_system\\services\\registrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6F20B6-6AD4-4910-A71A-864B0C56213A}|Railway_Reservation_System\\Railway_Reservation_System.csproj|C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\railway_reservation_system\\services\\cancellationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6F20B6-6AD4-4910-A71A-864B0C56213A}|Railway_Reservation_System\\Railway_Reservation_System.csproj|solutionrelative:railway_reservation_system\\services\\cancellationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1519651D-F6DF-452D-ADA9-DC88CC158567}|Railway_Reservation_System.Tests\\Railway_Reservation_System.Tests.csproj|C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\railway_reservation_system.tests\\bookingservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1519651D-F6DF-452D-ADA9-DC88CC158567}|Railway_Reservation_System.Tests\\Railway_Reservation_System.Tests.csproj|solutionrelative:railway_reservation_system.tests\\bookingservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6F20B6-6AD4-4910-A71A-864B0C56213A}|Railway_Reservation_System\\Railway_Reservation_System.csproj|C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\railway_reservation_system\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6F20B6-6AD4-4910-A71A-864B0C56213A}|Railway_Reservation_System\\Railway_Reservation_System.csproj|solutionrelative:railway_reservation_system\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6F20B6-6AD4-4910-A71A-864B0C56213A}|Railway_Reservation_System\\Railway_Reservation_System.csproj|C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\railway_reservation_system\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1C6F20B6-6AD4-4910-A71A-864B0C56213A}|Railway_Reservation_System\\Railway_Reservation_System.csproj|solutionrelative:railway_reservation_system\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Railway_Reservation_System||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vidushij\\source\\repos\\Railway_Reservation_System\\RailwayReservationTests\\obj\\Debug\\net9.0\\Railway_Reservation_System.Tests.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6F20B6-6AD4-4910-A71A-864B0C56213A}|Railway_Reservation_System\\Railway_Reservation_System.csproj|C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\railway_reservation_system\\faqs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6F20B6-6AD4-4910-A71A-864B0C56213A}|Railway_Reservation_System\\Railway_Reservation_System.csproj|solutionrelative:railway_reservation_system\\faqs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6F20B6-6AD4-4910-A71A-864B0C56213A}|Railway_Reservation_System\\Railway_Reservation_System.csproj|C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\railway_reservation_system\\useroperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6F20B6-6AD4-4910-A71A-864B0C56213A}|Railway_Reservation_System\\Railway_Reservation_System.csproj|solutionrelative:railway_reservation_system\\useroperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MyBookingServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System.Tests\\MyBookingServiceTests.cs",
+              "RelativeDocumentMoniker": "Railway_Reservation_System.Tests\\MyBookingServiceTests.cs",
+              "ToolTip": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System.Tests\\MyBookingServiceTests.cs",
+              "RelativeToolTip": "Railway_Reservation_System.Tests\\MyBookingServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T09:38:58.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MyBookingService.cs",
+              "DocumentMoniker": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System\\Services\\MyBookingService.cs",
+              "RelativeDocumentMoniker": "Railway_Reservation_System\\Services\\MyBookingService.cs",
+              "ToolTip": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System\\Services\\MyBookingService.cs",
+              "RelativeToolTip": "Railway_Reservation_System\\Services\\MyBookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T09:37:48.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegistrationServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System.Tests\\RegistrationServiceTests.cs",
+              "RelativeDocumentMoniker": "Railway_Reservation_System.Tests\\RegistrationServiceTests.cs",
+              "ToolTip": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System.Tests\\RegistrationServiceTests.cs",
+              "RelativeToolTip": "Railway_Reservation_System.Tests\\RegistrationServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T09:32:22.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegistrationService.cs",
+              "DocumentMoniker": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System\\Services\\RegistrationService.cs",
+              "RelativeDocumentMoniker": "Railway_Reservation_System\\Services\\RegistrationService.cs",
+              "ToolTip": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System\\Services\\RegistrationService.cs",
+              "RelativeToolTip": "Railway_Reservation_System\\Services\\RegistrationService.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T09:31:12.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CancellationServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System.Tests\\CancellationServiceTests.cs",
+              "RelativeDocumentMoniker": "Railway_Reservation_System.Tests\\CancellationServiceTests.cs",
+              "ToolTip": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System.Tests\\CancellationServiceTests.cs",
+              "RelativeToolTip": "Railway_Reservation_System.Tests\\CancellationServiceTests.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAtwBcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T08:01:52.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Railway_Reservation_System.Tests.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\vidushij\\source\\repos\\Railway_Reservation_System\\RailwayReservationTests\\obj\\Debug\\net9.0\\Railway_Reservation_System.Tests.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\Railway_Reservation_System\\RailwayReservationTests\\obj\\Debug\\net9.0\\Railway_Reservation_System.Tests.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\vidushij\\source\\repos\\Railway_Reservation_System\\RailwayReservationTests\\obj\\Debug\\net9.0\\Railway_Reservation_System.Tests.AssemblyInfo.cs",
+              "RelativeToolTip": "..\\..\\source\\repos\\Railway_Reservation_System\\RailwayReservationTests\\obj\\Debug\\net9.0\\Railway_Reservation_System.Tests.AssemblyInfo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowBIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T05:52:25.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookingServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System.Tests\\BookingServiceTests.cs",
+              "RelativeDocumentMoniker": "Railway_Reservation_System.Tests\\BookingServiceTests.cs",
+              "ToolTip": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System.Tests\\BookingServiceTests.cs",
+              "RelativeToolTip": "Railway_Reservation_System.Tests\\BookingServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T06:58:06.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System\\App.config",
+              "RelativeDocumentMoniker": "Railway_Reservation_System\\App.config",
+              "ToolTip": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System\\App.config",
+              "RelativeToolTip": "Railway_Reservation_System\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-11T06:55:29.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CancellationService.cs",
+              "DocumentMoniker": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System\\Services\\CancellationService.cs",
+              "RelativeDocumentMoniker": "Railway_Reservation_System\\Services\\CancellationService.cs",
+              "ToolTip": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System\\Services\\CancellationService.cs",
+              "RelativeToolTip": "Railway_Reservation_System\\Services\\CancellationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T05:06:09.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Railway_Reservation_System",
+              "DocumentMoniker": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System\\Railway_Reservation_System.csproj",
+              "RelativeDocumentMoniker": "Railway_Reservation_System\\Railway_Reservation_System.csproj",
+              "ToolTip": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System\\Railway_Reservation_System.csproj",
+              "RelativeToolTip": "Railway_Reservation_System\\Railway_Reservation_System.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-11T04:48:42.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Bookings.cs",
+              "DocumentMoniker": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System\\Bookings.cs",
+              "RelativeDocumentMoniker": "Railway_Reservation_System\\Bookings.cs",
+              "ToolTip": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System\\Bookings.cs",
+              "RelativeToolTip": "Railway_Reservation_System\\Bookings.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAIwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T11:44:08.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System\\Services\\BookingService.cs",
+              "RelativeDocumentMoniker": "Railway_Reservation_System\\Services\\BookingService.cs",
+              "ToolTip": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System\\Services\\BookingService.cs",
+              "RelativeToolTip": "Railway_Reservation_System\\Services\\BookingService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwCcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T16:11:26.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FAQs.cs",
+              "DocumentMoniker": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System\\FAQs.cs",
+              "RelativeDocumentMoniker": "Railway_Reservation_System\\FAQs.cs",
+              "ToolTip": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System\\FAQs.cs",
+              "RelativeToolTip": "Railway_Reservation_System\\FAQs.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T11:40:12.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CancelTicket.cs",
+              "DocumentMoniker": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System\\CancelTicket.cs",
+              "RelativeDocumentMoniker": "Railway_Reservation_System\\CancelTicket.cs",
+              "ToolTip": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System\\CancelTicket.cs",
+              "RelativeToolTip": "Railway_Reservation_System\\CancelTicket.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T10:42:34.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyBookings.cs",
+              "DocumentMoniker": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System\\MyBookings.cs",
+              "RelativeDocumentMoniker": "Railway_Reservation_System\\MyBookings.cs",
+              "ToolTip": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System\\MyBookings.cs",
+              "RelativeToolTip": "Railway_Reservation_System\\MyBookings.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T07:12:01.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TrainByName.cs",
+              "DocumentMoniker": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System\\TrainByName.cs",
+              "RelativeDocumentMoniker": "Railway_Reservation_System\\TrainByName.cs",
+              "ToolTip": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System\\TrainByName.cs",
+              "RelativeToolTip": "Railway_Reservation_System\\TrainByName.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADQAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T11:25:16.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrainByNum.cs",
+              "DocumentMoniker": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System\\TrainByNum.cs",
+              "RelativeDocumentMoniker": "Railway_Reservation_System\\TrainByNum.cs",
+              "ToolTip": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System\\TrainByNum.cs",
+              "RelativeToolTip": "Railway_Reservation_System\\TrainByNum.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwDgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T11:20:28.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserOperations.cs",
+              "DocumentMoniker": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System\\UserOperations.cs",
+              "RelativeDocumentMoniker": "Railway_Reservation_System\\UserOperations.cs",
+              "ToolTip": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System\\UserOperations.cs",
+              "RelativeToolTip": "Railway_Reservation_System\\UserOperations.cs",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAowMEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T10:41:22.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrainOperations.cs",
+              "DocumentMoniker": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System\\TrainOperations.cs",
+              "RelativeDocumentMoniker": "Railway_Reservation_System\\TrainOperations.cs",
+              "ToolTip": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System\\TrainOperations.cs",
+              "RelativeToolTip": "Railway_Reservation_System\\TrainOperations.cs",
+              "ViewState": "AgIAAAsBAAAAAAAAAAAowC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T06:38:26.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminLogin.cs",
+              "DocumentMoniker": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System\\AdminLogin.cs",
+              "RelativeDocumentMoniker": "Railway_Reservation_System\\AdminLogin.cs",
+              "ToolTip": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System\\AdminLogin.cs",
+              "RelativeToolTip": "Railway_Reservation_System\\AdminLogin.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwHMAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T16:44:15.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System\\Register.cs",
+              "RelativeDocumentMoniker": "Railway_Reservation_System\\Register.cs",
+              "ToolTip": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System\\Register.cs",
+              "RelativeToolTip": "Railway_Reservation_System\\Register.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAcwDoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T10:25:25.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System\\UserLogin.cs",
+              "RelativeDocumentMoniker": "Railway_Reservation_System\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System\\UserLogin.cs",
+              "RelativeToolTip": "Railway_Reservation_System\\UserLogin.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAAIIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T10:24:24.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistrationOptions.cs",
+              "DocumentMoniker": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System\\RegistrationOptions.cs",
+              "RelativeDocumentMoniker": "Railway_Reservation_System\\RegistrationOptions.cs",
+              "ToolTip": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System\\RegistrationOptions.cs",
+              "RelativeToolTip": "Railway_Reservation_System\\RegistrationOptions.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAMwCUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T10:05:45.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System\\Program.cs",
+              "RelativeDocumentMoniker": "Railway_Reservation_System\\Program.cs",
+              "ToolTip": "C:\\Users\\vidushij\\TrainingProj_1806681\\Railway_Reservation_System\\Railway_Reservation_System\\Program.cs",
+              "RelativeToolTip": "Railway_Reservation_System\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T10:00:01.548Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
