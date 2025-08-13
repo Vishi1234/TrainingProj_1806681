@@ -138,6 +138,17 @@ namespace Railway_Reservation_System
                             Console.WriteLine($"Total Cost     : {totalCostParam.Value}");
                             Console.WriteLine($"Status         : {statusParam.Value}");
                             Console.WriteLine("---------------------------------------------");
+                            Console.WriteLine();
+                            Console.WriteLine("Do you want to download this ticket? Enter y if yes , N if No");
+                            char ans = Convert.ToChar(Console.ReadLine());
+                            if (ans == 'Y' || ans == 'y')
+                            {
+                                DownloadTicket.Downloading();
+                              
+                            }
+                            Console.WriteLine();
+                            break;
+                            
                         }
                     }
                 }

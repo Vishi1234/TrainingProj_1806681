@@ -1,0 +1,16 @@
+=====================================
+           Train Ticket              
+=====================================
+PNR Number     : 23465
+Passenger Name : Harsh Singh
+Gender         : Male
+Train Number   : 98765
+Class          : 3Ac
+Seat Number    : 2
+Journey Date   : 11/12/2025
+Booking Date   : 8/13/2025
+Journey Status : Booked
+Cost per Seat  : ₹900
+Total Cost     : ₹900
+-------------------------------------
+Thank you for booking with us!

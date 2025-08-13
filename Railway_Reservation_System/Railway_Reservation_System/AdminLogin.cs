@@ -66,14 +66,15 @@ namespace Railway_Reservation_System
                     Console.WriteLine();
                     Console.WriteLine("1. Add trains");
                     Console.WriteLine("2. Edit Train Details");
-                    Console.WriteLine("3. Delete trains");
+                    Console.WriteLine("3. Soft Delete trains");
                     Console.WriteLine("4. View all trains");
-                    Console.WriteLine("5. Add Users");
-                    Console.WriteLine("6. Update Users");
-                    Console.WriteLine("7. Delete Users");
-                    Console.WriteLine("8. View all bookings");
-                    Console.WriteLine("9. View User List");
-                    Console.WriteLine("10. Logout");
+                    Console.WriteLine("5. Reactivate Train");
+                    Console.WriteLine("6. Add Users");
+                    Console.WriteLine("7. Update Users");
+                    Console.WriteLine("8. Delete Users");
+                    Console.WriteLine("9. View all bookings");
+                    Console.WriteLine("10. View User List");
+                    Console.WriteLine("11. Logout");
                     Console.WriteLine();
                     Console.Write("Enter your choice: ");
                     int choice = Convert.ToInt32(Console.ReadLine());
@@ -88,27 +89,30 @@ namespace Railway_Reservation_System
                             TrainOperations.UpdateTrain();
                             break;
                         case 3:
-                            TrainOperations.DeleteTrain();
+                            TrainOperations.SoftDeleteTrain();
                             break;
                         case 4:
                             TrainOperations.ViewAllTrains();
                             break;
                         case 5:
-                            UserOperations.AddUser();
+                            TrainOperations.ReactivateTrain();
                             break;
                         case 6:
-                            UserOperations.UpdateUser();
+                            UserOperations.AddUser();
                             break;
                         case 7:
-                            UserOperations.DeleteUser();
+                            UserOperations.UpdateUser();
                             break;
                         case 8:
-                            MyBookings.ViewAllBookings();
+                            UserOperations.DeleteUser();
                             break;
                         case 9:
-                            UserOperations.ViewAllUsers();
+                            MyBookings.ViewAllBookings();
                             break;
                         case 10:
+                            UserOperations.ViewAllUsers();
+                            break;
+                        case 11:
                             Console.WriteLine("Logging out....");
                             RegistrationOptions.Options();
                             break;

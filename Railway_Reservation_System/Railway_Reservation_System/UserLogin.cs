@@ -83,7 +83,8 @@ namespace Railway_Reservation_System
                     Console.WriteLine("4. Book a ticket");
                     Console.WriteLine("5. Cancel a ticket");
                     Console.WriteLine("6. View my Bookings");
-                    Console.WriteLine("7. Logout");
+                    Console.WriteLine("7. Download Ticket");
+                    Console.WriteLine("8. Logout");
                     Console.WriteLine();
                     Console.Write("Enter your choice: ");
                     int choice = Convert.ToInt32(Console.ReadLine());
@@ -109,6 +110,9 @@ namespace Railway_Reservation_System
                             MyBookings.ViewBookings(custId);
                             break;
                         case 7:
+                            DownloadTicket.Downloading();
+                            break;
+                        case 8:
                             Console.WriteLine("Logging out....");
                             RegistrationOptions.Options();
                             break;

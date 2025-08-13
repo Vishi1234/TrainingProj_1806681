@@ -181,53 +181,50 @@ namespace Railway_Reservation_System
             Console.ReadLine();
         }
 
-        public static void DeleteTrain()
+        public static void SoftDeleteTrain()
         {
             using (SqlConnection con = new SqlConnection("Data Source=ICS-LT-3NQ0LQ3\\SQLEXPRESS;Initial Catalog=master;Integrated Security=true;"))
             {
                 con.Open();
                 Console.WriteLine("-------------------------------");
-                Console.WriteLine("Delete trains");
+                Console.WriteLine("Soft Delete Train");
                 Console.WriteLine("-------------------------------");
-                Console.Write("Enter train number to delete: ");
+                Console.Write("Enter train number to deactivate: ");
                 int trainNo = Convert.ToInt32(Console.ReadLine());
-                Console.Write("Enter the class to delete: ");
-                string classToDelete = ToCase(Console.ReadLine());
+                Console.Write("Enter the class to deactivate: ");
+                string classToDeactivate = ToCase(Console.ReadLine());
 
                 using (SqlTransaction transaction = con.BeginTransaction())
                 {
                     try
                     {
-                        SqlCommand deleteIntroCmd = new SqlCommand(@"
-                                                          DELETE TOP(1) I
-                                                          FROM TRAIN_INTRO I
-                                                          INNER JOIN TRAIN_DETAILS D ON I.Train_No = D.Train_No
-                                                          WHERE I.Train_No = @trainNo AND D.Class = @classToDelete;", con, transaction);
+                        SqlCommand updateStatusCmd = new SqlCommand(@"
+                    UPDATE TRAIN_DETAILS
+                    SET Status = 'Inactive'
+                    WHERE Train_No = @trainNo AND Class = @classToDeactivate;", con, transaction);
 
-                        deleteIntroCmd.Parameters.AddWithValue("@trainNo", trainNo);
-                        deleteIntroCmd.Parameters.AddWithValue("@classToDelete", classToDelete);
+                        updateStatusCmd.Parameters.AddWithValue("@trainNo", trainNo);
+                        updateStatusCmd.Parameters.AddWithValue("@classToDeactivate", classToDeactivate);
 
-                        int introDeleted = deleteIntroCmd.ExecuteNonQuery();
+                        int rowsAffected = updateStatusCmd.ExecuteNonQuery();
 
-
-                        SqlCommand deleteDetailsCmd = new SqlCommand(@"
-                                               DELETE FROM TRAIN_DETAILS
-                                               WHERE Train_No = @trainNo AND Class = @classToDelete;", con, transaction);
-
-                        deleteDetailsCmd.Parameters.AddWithValue("@trainNo", trainNo);
-                        deleteDetailsCmd.Parameters.AddWithValue("@classToDelete", classToDelete);
-
-                        int detailsDeleted = deleteDetailsCmd.ExecuteNonQuery();
-
-                        transaction.Commit();
-                        Console.WriteLine();
-                        Console.WriteLine("*****************************************");
-                        Console.WriteLine("The train is deleted successfully");
+                        if (rowsAffected > 0)
+                        {
+                            transaction.Commit();
+                            Console.WriteLine();
+                            Console.WriteLine("*****************************************");
+                            Console.WriteLine("Train status updated to 'Inactive'.");
+                        }
+                        else
+                        {
+                            transaction.Rollback();
+                            Console.WriteLine("Train is not active.");
+                        }
                     }
                     catch (Exception ex)
                     {
                         transaction.Rollback();
-                        Console.WriteLine("Error during deletion: " + ex.Message);
+                        Console.WriteLine("Error during soft deletion: " + ex.Message);
                     }
                     finally
                     {
@@ -238,6 +235,63 @@ namespace Railway_Reservation_System
                 }
             }
         }
+
+
+        public static void ReactivateTrain()
+        {
+            using (SqlConnection con = new SqlConnection("Data Source=ICS-LT-3NQ0LQ3\\SQLEXPRESS;Initial Catalog=master;Integrated Security=true;"))
+            {
+                con.Open();
+                Console.WriteLine("-------------------------------");
+                Console.WriteLine("Reactivate Train");
+                Console.WriteLine("-------------------------------");
+                Console.Write("Enter train number to reactivate: ");
+                int trainNo = Convert.ToInt32(Console.ReadLine());
+                Console.Write("Enter the class to reactivate: ");
+                string classToReactivate = ToCase(Console.ReadLine());
+
+                using (SqlTransaction transaction = con.BeginTransaction())
+                {
+                    try
+                    {
+                        SqlCommand updateStatusCmd = new SqlCommand(@"
+                    UPDATE TRAIN_DETAILS
+                    SET Status = 'Active'
+                    WHERE Train_No = @trainNo AND Class = @classToReactivate;", con, transaction);
+
+                        updateStatusCmd.Parameters.AddWithValue("@trainNo", trainNo);
+                        updateStatusCmd.Parameters.AddWithValue("@classToReactivate", classToReactivate);
+
+                        int rowsAffected = updateStatusCmd.ExecuteNonQuery();
+
+                        if (rowsAffected > 0)
+                        {
+                            transaction.Commit();
+                            Console.WriteLine();
+                            Console.WriteLine("*****************************************");
+                            Console.WriteLine("Train status updated to 'Active'.");
+                        }
+                        else
+                        {
+                            transaction.Rollback();
+                            Console.WriteLine("No matching train/class found to update.");
+                        }
+                    }
+                    catch (Exception ex)
+                    {
+                        transaction.Rollback();
+                        Console.WriteLine("Error during reactivation: " + ex.Message);
+                    }
+                    finally
+                    {
+                        con.Close();
+                    }
+
+                    Console.ReadLine();
+                }
+            }
+        }
+
 
 
         public static void ViewAllTrains()
@@ -251,7 +305,8 @@ namespace Railway_Reservation_System
                                            i.Destination, 
                                            d.Class, 
                                            d.Availability, 
-                                           d.Cost_per_seat
+                                           d.Cost_per_seat,
+                                           d.Status
                                            FROM TRAIN_INTRO i
                                            INNER JOIN TRAIN_DETAILS d ON i.Train_No = d.Train_No", con);
             try
@@ -260,20 +315,21 @@ namespace Railway_Reservation_System
                 SqlDataReader reader = cmd.ExecuteReader();
                 Console.WriteLine();
                 Console.WriteLine("--------------------------------------------------------------------------------------------------------");
-                Console.WriteLine("{0,-10} {1,-20} {2,-15} {3,-15} {4,-10} {5,-12} {6,-10}",
-                                  "Train No", "Train Name", "Source", "Destination", "Class", "Availability", "Cost");
+                Console.WriteLine("{0,-10} {1,-20} {2,-15} {3,-15} {4,-10} {5,-12} {6,-10} {7,-10}",
+                                  "Train No", "Train Name", "Source", "Destination", "Class", "Availability", "Cost", "Status");
                 Console.WriteLine("--------------------------------------------------------------------------------------------------------");
 
                 while (reader.Read())
                 {
-                    Console.WriteLine("{0,-10} {1,-20} {2,-15} {3,-15} {4,-10} {5,-12} {6,-10}",
+                    Console.WriteLine("{0,-10} {1,-20} {2,-15} {3,-15} {4,-10} {5,-12} {6,-10} {7,-10}",
                         reader["Train_No"],
                         reader["Train_Name"],
                         reader["Source"],
                         reader["Destination"],
                         reader["Class"],
                         reader["Availability"],
-                        reader["Cost_per_seat"]);
+                        reader["Cost_per_seat"],
+                        reader["Status"]);
                     
                 }
 
