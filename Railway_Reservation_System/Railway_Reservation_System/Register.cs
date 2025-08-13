@@ -34,34 +34,20 @@ namespace Railway_Reservation_System
             string lastname = ToCase(Console.ReadLine());
             Console.Write("Enter Gender: ");
             string gender = ToCase(Console.ReadLine());
-            string phn;
-            while (true)
+            Console.Write("Enter phone: ");
+            string phn = ToCase(Console.ReadLine());
+            if (phn.Length != 10 || !phn.All(char.IsDigit))
             {
-                Console.Write("Enter phone: ");
-                phn = ToCase(Console.ReadLine());
-
-                if (phn.Length == 10 && phn.All(char.IsDigit))
-                {
-                    break; 
-                }
-
                 Console.WriteLine("Invalid. Please enter a 10-digit number.");
+                return;
             }
-
-            string email;
-            while (true)
+            Console.Write("Enter your email: ");
+            string email = Console.ReadLine();
+            if (!email.Contains("@"))
             {
-                Console.Write("Enter your email: ");
-                email = Console.ReadLine();
-
-                if (email.Contains("@"))
-                {
-                    break;
-                }
-
-                Console.WriteLine("You have missed '@'. Please enter a valid email address.");
+                Console.WriteLine("You have missed @. Please enter a valid email address.");
+                return;
             }
-
             Console.Write("Enter your password: ");
             string password = Console.ReadLine();
 

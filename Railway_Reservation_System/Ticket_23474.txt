@@ -1,0 +1,16 @@
+=====================================
+           Train Ticket              
+=====================================
+PNR Number     : 23474
+Passenger Name : Vidu  Jain
+Gender         : Emale
+Train Number   : 98765
+Class          : 3Ac
+Seat Number    : 3
+Journey Date   : 11/11/2025
+Booking Date   : 8/13/2025
+Journey Status : Booked
+Cost per Seat  : ₹900
+Total Cost     : ₹900
+-------------------------------------
+Thank you for booking with us!

@@ -1,16 +1,16 @@
 =====================================
            Train Ticket              
 =====================================
-PNR Number     : 23465
-Passenger Name : Harsh Singh
-Gender         : Male
-Train Number   : 98765
-Class          : 3Ac
-Seat Number    : 2
-Journey Date   : 11/12/2025
+PNR Number     : 23468
+Passenger Name : Preeti Jain Jain
+Gender         : Female
+Train Number   : 45454
+Class          : 2Ac
+Seat Number    : 1
+Journey Date   : 11/1/2025
 Booking Date   : 8/13/2025
 Journey Status : Booked
-Cost per Seat  : ₹900
-Total Cost     : ₹900
+Cost per Seat  : ₹450
+Total Cost     : ₹450
 -------------------------------------
 Thank you for booking with us!

@@ -20,8 +20,8 @@ namespace RailwayReservationTests
         public void CancelBooking_WithValidPNRAndSeat_ShouldReturnSuccessStatus()
         {
             // Arrange
-            int validPNR = 23459 ; // Replace with a real PNR from your DB
-            int validSeatNo =1;
+            int validPNR = 23483 ; // Replace with a real PNR from your DB
+            int validSeatNo =6;
 
             // Act
             var result = _cancellationService.CancelBooking(validPNR, validSeatNo);

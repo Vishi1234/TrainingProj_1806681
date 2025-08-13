@@ -9,7 +9,7 @@ namespace Railway_Reservation_System
         public static void DownloadTicketByPNR(int pnr)
         {
             string connectionString = "Data Source=ICS-LT-3NQ0LQ3\\SQLEXPRESS;Initial Catalog=master;Integrated Security=true;";
-            string folderPath = @"C:\Users\vidushij\source\repos\Railway_Reservation_System";
+            string folderPath = @"C:\Users\vidushij\TrainingProj_1806681\Railway_Reservation_System";
             string filePath = Path.Combine(folderPath, $"Ticket_{pnr}.txt");
 
             using (SqlConnection con = new SqlConnection(connectionString))

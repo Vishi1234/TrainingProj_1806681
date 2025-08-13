@@ -18,7 +18,6 @@ namespace Railway_Reservation_System
             Console.WriteLine("2. Login as admin");
             Console.WriteLine("3. New? Register here");
             Console.WriteLine("4. FAQs");
-            Console.WriteLine("5. Exit");
             Console.WriteLine();
             Console.Write("Enter Your Choice: ");
             int choice = Convert.ToInt32 (Console.ReadLine());
@@ -37,8 +36,6 @@ namespace Railway_Reservation_System
                 case 4:
                     FAQs.FAQuestions();
                     break;
-                case 5:
-                    return;
                 default:
                     Console.WriteLine("Invalid choice.");
                     Console.Write("Press Y to go back to the main menu: ");
@@ -49,7 +46,9 @@ namespace Railway_Reservation_System
                     {
                         RegistrationOptions.Options();
                     }
-                    break;
+
+
+                    return;
             }
         }
     }

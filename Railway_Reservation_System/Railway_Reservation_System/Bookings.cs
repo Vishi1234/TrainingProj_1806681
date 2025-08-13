@@ -31,42 +31,28 @@ namespace Railway_Reservation_System
             Console.Write("Enter Class (e.g., sleeper, AC): ");
             string trainClass = ToCase(Console.ReadLine());
 
+            Console.Write("Enter the journey date (yyyy-MM-dd): ");
+            string inputDate = Console.ReadLine();
             DateTime journeyDate;
-            while (true)
+            if (!DateTime.TryParse(inputDate, out journeyDate))
             {
-                Console.Write("Enter the journey date (yyyy-MM-dd): ");
-                string inputDate = Console.ReadLine();
-
-                if (!DateTime.TryParse(inputDate, out journeyDate))
-                {
-                    Console.WriteLine("Invalid format. Please use yyyy-MM-dd.");
-                    continue;
-                }
-
-                if (journeyDate.Date < DateTime.Today)
-                {
-                    Console.WriteLine("Invalid date. Journey date cannot be before today.");
-                    continue;
-                }
-
-                break; 
+                Console.WriteLine("Invalid format: Use yyyy-MM-dd.");
+                return;
             }
 
+            if (journeyDate.Date < DateTime.Today)
+            {
+                Console.WriteLine("Invalid date: Journey date cannot be before today.");
+                return;
+            }
+
+            Console.Write("Enter Quantity (number of passengers): ");
             int quantity;
-            while (true)
+            if (!int.TryParse(Console.ReadLine(), out quantity) || quantity <= 0)
             {
-                Console.Write("Enter Quantity (number of passengers): ");
-                string inputQty = Console.ReadLine();
-
-                if (!int.TryParse(inputQty, out quantity) || quantity <= 0)
-                {
-                    Console.WriteLine("Invalid quantity. Please enter a positive number.");
-                    continue;
-                }
-
-                break; 
+                Console.WriteLine("Invalid quantity.");
+                return;
             }
-
 
             List<Tuple<string, string, string>> passengers = new List<Tuple<string, string, string>>();
 
@@ -135,22 +121,24 @@ namespace Railway_Reservation_System
                             Console.WriteLine($"Train Name     : {trainName}");
                             Console.WriteLine($"Class Selected : {trainClass}");
                             Console.WriteLine($"PNR Number     : {pnrParam.Value}");
-                            Console.WriteLine($"Total Cost     : {totalCostParam.Value}");
+                            Console.WriteLine($"Total Cost     : ₹{totalCostParam.Value}");
                             Console.WriteLine($"Status         : {statusParam.Value}");
                             Console.WriteLine("---------------------------------------------");
                             Console.WriteLine();
-                            Console.WriteLine("Do you want to download this ticket? Enter y if yes , N if No");
-                            char ans = Convert.ToChar(Console.ReadLine());
-                            if (ans == 'Y' || ans == 'y')
-                            {
-                                DownloadTicket.Downloading();
-                              
-                            }
-                            Console.WriteLine();
-                            break;
-                            
                         }
                     }
+                    Console.WriteLine("Do you want to download this ticket? Enter y if yes , N if No");
+                    char ans = Convert.ToChar(Console.ReadLine());
+                    if (ans == 'Y' || ans == 'y')
+                    {
+                        DownloadTicket.Downloading();
+
+                    }
+                    else
+                    {
+                        Console.WriteLine("Alright! Your tickets are booked and saved in the system.");
+                    }
+
                 }
                 catch (SqlException ex)
                 {

@@ -82,8 +82,8 @@ namespace Railway_Reservation_System
                     Console.WriteLine("3. View All Trains");
                     Console.WriteLine("4. Book a ticket");
                     Console.WriteLine("5. Cancel a ticket");
-                    Console.WriteLine("6. View my Bookings");
-                    Console.WriteLine("7. Download Ticket");
+                    Console.WriteLine("6. Download Ticket");
+                    Console.WriteLine("7. View my Bookings");
                     Console.WriteLine("8. Logout");
                     Console.WriteLine();
                     Console.Write("Enter your choice: ");
@@ -107,10 +107,10 @@ namespace Railway_Reservation_System
                             CancelTicket.StartCancellationProcess();
                             break;
                         case 6:
-                            MyBookings.ViewBookings(custId);
+                            DownloadTicket.Downloading();
                             break;
                         case 7:
-                            DownloadTicket.Downloading();
+                            MyBookings.ViewBookings(custId);
                             break;
                         case 8:
                             Console.WriteLine("Logging out....");
@@ -127,13 +127,6 @@ namespace Railway_Reservation_System
             else
             {
                 Console.WriteLine("Login failed.");
-                Console.WriteLine("Enter 'y' to try logging in again");
-                char ans = Convert.ToChar(Console.ReadLine());
-
-                if (ans == 'y' || ans == 'Y')
-                {
-                    UserLogin.LoginAsUser();
-                }
             }
             Console.ReadLine();
         }
