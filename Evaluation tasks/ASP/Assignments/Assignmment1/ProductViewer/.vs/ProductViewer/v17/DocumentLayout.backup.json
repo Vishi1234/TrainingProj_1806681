@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vidushij\\source\\repos\\ProductViewer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98549096-A29F-4766-923C-20825C5B50FC}|ProductViewer\\ProductViewer.csproj|c:\\users\\vidushij\\source\\repos\\productviewer\\productviewer\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{98549096-A29F-4766-923C-20825C5B50FC}|ProductViewer\\ProductViewer.csproj|solutionrelative:productviewer\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98549096-A29F-4766-923C-20825C5B50FC}|ProductViewer\\ProductViewer.csproj|c:\\users\\vidushij\\source\\repos\\productviewer\\productviewer\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98549096-A29F-4766-923C-20825C5B50FC}|ProductViewer\\ProductViewer.csproj|solutionrelative:productviewer\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vidushij\\source\\repos\\ProductViewer\\ProductViewer\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "ProductViewer\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\vidushij\\source\\repos\\ProductViewer\\ProductViewer\\Default.aspx.cs",
+              "RelativeToolTip": "ProductViewer\\Default.aspx.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T12:11:31.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\vidushij\\source\\repos\\ProductViewer\\ProductViewer\\Default.aspx",
+              "RelativeDocumentMoniker": "ProductViewer\\Default.aspx",
+              "ToolTip": "C:\\Users\\vidushij\\source\\repos\\ProductViewer\\ProductViewer\\Default.aspx",
+              "RelativeToolTip": "ProductViewer\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-18T12:10:13.438Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
