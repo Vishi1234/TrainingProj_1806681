@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vidushij\\TrainingProj_1806681\\Evaluation tasks\\MVC\\Coding Challenges\\CodingChallenge09\\NorthWind_Proj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{368ECB69-7F7A-419F-B265-D16DF8FB2B8E}|NorthWind_Proj\\NorthWind_Proj.csproj|C:\\Users\\vidushij\\TrainingProj_1806681\\Evaluation tasks\\MVC\\Coding Challenges\\CodingChallenge09\\NorthWind_Proj\\northwind_proj\\views\\code\\germanycustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{368ECB69-7F7A-419F-B265-D16DF8FB2B8E}|NorthWind_Proj\\NorthWind_Proj.csproj|solutionrelative:northwind_proj\\views\\code\\germanycustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{368ECB69-7F7A-419F-B265-D16DF8FB2B8E}|NorthWind_Proj\\NorthWind_Proj.csproj|C:\\Users\\vidushij\\TrainingProj_1806681\\Evaluation tasks\\MVC\\Coding Challenges\\CodingChallenge09\\NorthWind_Proj\\northwind_proj\\views\\code\\customerbyorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{368ECB69-7F7A-419F-B265-D16DF8FB2B8E}|NorthWind_Proj\\NorthWind_Proj.csproj|solutionrelative:northwind_proj\\views\\code\\customerbyorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{368ECB69-7F7A-419F-B265-D16DF8FB2B8E}|NorthWind_Proj\\NorthWind_Proj.csproj|C:\\Users\\vidushij\\TrainingProj_1806681\\Evaluation tasks\\MVC\\Coding Challenges\\CodingChallenge09\\NorthWind_Proj\\northwind_proj\\controllers\\codecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{368ECB69-7F7A-419F-B265-D16DF8FB2B8E}|NorthWind_Proj\\NorthWind_Proj.csproj|solutionrelative:northwind_proj\\controllers\\codecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{368ECB69-7F7A-419F-B265-D16DF8FB2B8E}|NorthWind_Proj\\NorthWind_Proj.csproj|C:\\Users\\vidushij\\TrainingProj_1806681\\Evaluation tasks\\MVC\\Coding Challenges\\CodingChallenge09\\NorthWind_Proj\\northwind_proj\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{368ECB69-7F7A-419F-B265-D16DF8FB2B8E}|NorthWind_Proj\\NorthWind_Proj.csproj|solutionrelative:northwind_proj\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|NorthWind_Proj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{368ECB69-7F7A-419F-B265-D16DF8FB2B8E}|NorthWind_Proj\\NorthWind_Proj.csproj|C:\\Users\\vidushij\\TrainingProj_1806681\\Evaluation tasks\\MVC\\Coding Challenges\\CodingChallenge09\\NorthWind_Proj\\northwind_proj\\northwindmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{368ECB69-7F7A-419F-B265-D16DF8FB2B8E}|NorthWind_Proj\\NorthWind_Proj.csproj|solutionrelative:northwind_proj\\northwindmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{368ECB69-7F7A-419F-B265-D16DF8FB2B8E}|NorthWind_Proj\\NorthWind_Proj.csproj|C:\\Users\\vidushij\\TrainingProj_1806681\\Evaluation tasks\\MVC\\Coding Challenges\\CodingChallenge09\\NorthWind_Proj\\northwind_proj\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{368ECB69-7F7A-419F-B265-D16DF8FB2B8E}|NorthWind_Proj\\NorthWind_Proj.csproj|solutionrelative:northwind_proj\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{368ECB69-7F7A-419F-B265-D16DF8FB2B8E}|NorthWind_Proj\\NorthWind_Proj.csproj|c:\\users\\vidushij\\trainingproj_1806681\\evaluation tasks\\mvc\\coding challenges\\codingchallenge09\\northwind_proj\\northwind_proj\\northwindmodel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{368ECB69-7F7A-419F-B265-D16DF8FB2B8E}|NorthWind_Proj\\NorthWind_Proj.csproj|solutionrelative:northwind_proj\\northwindmodel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{368ECB69-7F7A-419F-B265-D16DF8FB2B8E}|NorthWind_Proj\\NorthWind_Proj.csproj|c:\\users\\vidushij\\trainingproj_1806681\\evaluation tasks\\mvc\\coding challenges\\codingchallenge09\\northwind_proj\\northwind_proj\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|9ab2347d-948d-4cd2-8dbe-f15f0ef78ed3"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\vidushij\\TrainingProj_1806681\\Evaluation tasks\\MVC\\Coding Challenges\\CodingChallenge09\\NorthWind_Proj\\NorthWind_Proj\\Web.config",
+              "RelativeDocumentMoniker": "NorthWind_Proj\\Web.config",
+              "ToolTip": "C:\\Users\\vidushij\\TrainingProj_1806681\\Evaluation tasks\\MVC\\Coding Challenges\\CodingChallenge09\\NorthWind_Proj\\NorthWind_Proj\\Web.config",
+              "RelativeToolTip": "NorthWind_Proj\\Web.config",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwDwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-25T05:50:04.785Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NorthWindModel.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\vidushij\\TrainingProj_1806681\\Evaluation tasks\\MVC\\Coding Challenges\\CodingChallenge09\\NorthWind_Proj\\NorthWind_Proj\\NorthWindModel.Designer.cs",
+              "RelativeDocumentMoniker": "NorthWind_Proj\\NorthWindModel.Designer.cs",
+              "ToolTip": "C:\\Users\\vidushij\\TrainingProj_1806681\\Evaluation tasks\\MVC\\Coding Challenges\\CodingChallenge09\\NorthWind_Proj\\NorthWind_Proj\\NorthWindModel.Designer.cs",
+              "RelativeToolTip": "NorthWind_Proj\\NorthWindModel.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T06:21:58.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NorthWindModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\vidushij\\TrainingProj_1806681\\Evaluation tasks\\MVC\\Coding Challenges\\CodingChallenge09\\NorthWind_Proj\\NorthWind_Proj\\NorthWindModel.edmx",
+              "RelativeDocumentMoniker": "NorthWind_Proj\\NorthWindModel.edmx",
+              "ToolTip": "C:\\Users\\vidushij\\TrainingProj_1806681\\Evaluation tasks\\MVC\\Coding Challenges\\CodingChallenge09\\NorthWind_Proj\\NorthWind_Proj\\NorthWindModel.edmx [Diagram1]",
+              "RelativeToolTip": "NorthWind_Proj\\NorthWindModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-08-25T06:21:25.114Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\vidushij\\TrainingProj_1806681\\Evaluation tasks\\MVC\\Coding Challenges\\CodingChallenge09\\NorthWind_Proj\\NorthWind_Proj\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NorthWind_Proj\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\vidushij\\TrainingProj_1806681\\Evaluation tasks\\MVC\\Coding Challenges\\CodingChallenge09\\NorthWind_Proj\\NorthWind_Proj\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NorthWind_Proj\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T06:12:48.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NorthWind_Proj",
+              "DocumentMoniker": "C:\\Users\\vidushij\\TrainingProj_1806681\\Evaluation tasks\\MVC\\Coding Challenges\\CodingChallenge09\\NorthWind_Proj\\NorthWind_Proj\\NorthWind_Proj.csproj",
+              "RelativeDocumentMoniker": "NorthWind_Proj\\NorthWind_Proj.csproj",
+              "ToolTip": "C:\\Users\\vidushij\\TrainingProj_1806681\\Evaluation tasks\\MVC\\Coding Challenges\\CodingChallenge09\\NorthWind_Proj\\NorthWind_Proj\\NorthWind_Proj.csproj",
+              "RelativeToolTip": "NorthWind_Proj\\NorthWind_Proj.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-25T06:02:31.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerByorder.cshtml",
+              "DocumentMoniker": "C:\\Users\\vidushij\\TrainingProj_1806681\\Evaluation tasks\\MVC\\Coding Challenges\\CodingChallenge09\\NorthWind_Proj\\NorthWind_Proj\\Views\\Code\\CustomerByorder.cshtml",
+              "RelativeDocumentMoniker": "NorthWind_Proj\\Views\\Code\\CustomerByorder.cshtml",
+              "ToolTip": "C:\\Users\\vidushij\\TrainingProj_1806681\\Evaluation tasks\\MVC\\Coding Challenges\\CodingChallenge09\\NorthWind_Proj\\NorthWind_Proj\\Views\\Code\\CustomerByorder.cshtml",
+              "RelativeToolTip": "NorthWind_Proj\\Views\\Code\\CustomerByorder.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T06:00:01.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GermanyCustomer.cshtml",
+              "DocumentMoniker": "C:\\Users\\vidushij\\TrainingProj_1806681\\Evaluation tasks\\MVC\\Coding Challenges\\CodingChallenge09\\NorthWind_Proj\\NorthWind_Proj\\Views\\Code\\GermanyCustomer.cshtml",
+              "RelativeDocumentMoniker": "NorthWind_Proj\\Views\\Code\\GermanyCustomer.cshtml",
+              "ToolTip": "C:\\Users\\vidushij\\TrainingProj_1806681\\Evaluation tasks\\MVC\\Coding Challenges\\CodingChallenge09\\NorthWind_Proj\\NorthWind_Proj\\Views\\Code\\GermanyCustomer.cshtml",
+              "RelativeToolTip": "NorthWind_Proj\\Views\\Code\\GermanyCustomer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T05:58:44.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CodeController.cs",
+              "DocumentMoniker": "C:\\Users\\vidushij\\TrainingProj_1806681\\Evaluation tasks\\MVC\\Coding Challenges\\CodingChallenge09\\NorthWind_Proj\\NorthWind_Proj\\Controllers\\CodeController.cs",
+              "RelativeDocumentMoniker": "NorthWind_Proj\\Controllers\\CodeController.cs",
+              "ToolTip": "C:\\Users\\vidushij\\TrainingProj_1806681\\Evaluation tasks\\MVC\\Coding Challenges\\CodingChallenge09\\NorthWind_Proj\\NorthWind_Proj\\Controllers\\CodeController.cs",
+              "RelativeToolTip": "NorthWind_Proj\\Controllers\\CodeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T05:56:31.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

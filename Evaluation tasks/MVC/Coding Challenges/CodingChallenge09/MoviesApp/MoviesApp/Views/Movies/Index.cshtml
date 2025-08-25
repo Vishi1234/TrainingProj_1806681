@@ -1,0 +1,50 @@
+﻿@model IEnumerable<MoviesApp.Models.Movies>
+
+@{
+    ViewBag.Title = "Movies List";
+}
+
+<h2 style="font-family: Arial; color: #34495e;">Movies</h2>
+
+<p>
+    @Html.ActionLink("Add New Movie", "Create", null, new { @class = "btn btn-primary", style = "margin-bottom: 10px;" })
+</p>
+
+<div style="margin-bottom: 20px;">
+    <form method="get" action="@Url.Action("MoviesByYear", "Movies")" style="display:inline-block; margin-right:16px;">
+        <input type="number" name="year" placeholder="Year (e.g. 2022)" required style="width:140px; padding: 6px;" />
+        <button type="submit" style="padding: 6px 12px; color: white; border: none; border-radius: 4px;">Show by Year</button>
+    </form>
+
+    <form method="get" action="@Url.Action("MoviesByDirector", "Movies")" style="display:inline-block;">
+        <input type="text" name="directorName" placeholder="Director Name" required style="width:160px; padding: 6px;" />
+        <button type="submit" style="padding: 6px 12px; color: white; border: none; border-radius: 4px;">Show by Director</button>
+    </form>
+</div>
+
+<table style="width:90%; border-collapse: collapse; margin-top: 16px;">
+    <thead >
+        <tr>
+            <th style="padding: 8px">ID</th>
+            <th style="padding: 8px">Name</th>
+            <th style="padding: 8px">Director</th>
+            <th style="padding: 8px">Date of Release</th>
+            <th style="padding: 8px">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td style="padding: 8px; ">@item.Mid</td>
+                <td style="padding: 8px;">@item.Moviename</td>
+                <td style="padding: 8px">@item.DirectorName</td>
+                <td style="padding: 8px">@item.DateofRelease.ToShortDateString()</td>
+                <td style="padding: 8px">
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Mid }, new { @style = "margin-right: 8px;" })
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Mid })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,7 @@
+﻿@model IEnumerable<MoviesApp.Models.Movies>
+
+<h2>Movies Released in @Request.QueryString["year"]</h2>
+@foreach (var m in Model)
+{
+    <p>@m.Moviename by @m.DirectorName (@m.DateofRelease.Year)</p>
+}
