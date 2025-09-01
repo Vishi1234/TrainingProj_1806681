@@ -1,0 +1,11 @@
+C:\Users\vidushij\TrainingProj_1806681\Evaluation tasks\Web API\Coding Challenge\Coding Challenge 10\Ques2-DbFirstApproach\Ques2-DbFirstApproach\obj\Debug\Ques2-DbFirstApproach.csproj.AssemblyReference.cache
+C:\Users\vidushij\TrainingProj_1806681\Evaluation tasks\Web API\Coding Challenge\Coding Challenge 10\Ques2-DbFirstApproach\Ques2-DbFirstApproach\obj\Debug\Ques2-DbFirstApproach.csproj.CoreCompileInputs.cache
+C:\Users\vidushij\TrainingProj_1806681\Evaluation tasks\Web API\Coding Challenge\Coding Challenge 10\Ques2-DbFirstApproach\Ques2-DbFirstApproach\bin\Ques2-DbFirstApproach.dll.config
+C:\Users\vidushij\TrainingProj_1806681\Evaluation tasks\Web API\Coding Challenge\Coding Challenge 10\Ques2-DbFirstApproach\Ques2-DbFirstApproach\bin\Ques2-DbFirstApproach.dll
+C:\Users\vidushij\TrainingProj_1806681\Evaluation tasks\Web API\Coding Challenge\Coding Challenge 10\Ques2-DbFirstApproach\Ques2-DbFirstApproach\bin\Ques2-DbFirstApproach.pdb
+C:\Users\vidushij\TrainingProj_1806681\Evaluation tasks\Web API\Coding Challenge\Coding Challenge 10\Ques2-DbFirstApproach\Ques2-DbFirstApproach\bin\EntityFramework.dll
+C:\Users\vidushij\TrainingProj_1806681\Evaluation tasks\Web API\Coding Challenge\Coding Challenge 10\Ques2-DbFirstApproach\Ques2-DbFirstApproach\bin\Newtonsoft.Json.dll
+C:\Users\vidushij\TrainingProj_1806681\Evaluation tasks\Web API\Coding Challenge\Coding Challenge 10\Ques2-DbFirstApproach\Ques2-DbFirstApproach\bin\EntityFramework.xml
+C:\Users\vidushij\TrainingProj_1806681\Evaluation tasks\Web API\Coding Challenge\Coding Challenge 10\Ques2-DbFirstApproach\Ques2-DbFirstApproach\obj\Debug\Ques2-Db.B0D40C34.Up2Date
+C:\Users\vidushij\TrainingProj_1806681\Evaluation tasks\Web API\Coding Challenge\Coding Challenge 10\Ques2-DbFirstApproach\Ques2-DbFirstApproach\obj\Debug\Ques2-DbFirstApproach.dll
+C:\Users\vidushij\TrainingProj_1806681\Evaluation tasks\Web API\Coding Challenge\Coding Challenge 10\Ques2-DbFirstApproach\Ques2-DbFirstApproach\obj\Debug\Ques2-DbFirstApproach.pdb
